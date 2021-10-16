@@ -1,0 +1,32 @@
+body{
+    background-color: #091353;
+    margin-top: 15px;
+    color: white;
+}
+
+.container{
+    background-color: #FFA6D5;
+    color: #4a559b;
+   border-radius: 5px;
+    display: flex;
+    justify-items: center;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-flow:    row;
+    gap: 9px;
+}
+
+.title{
+    font-size: 30px;
+    text-align: center;
+}
+.card{
+    padding: 17px;
+    background-color: #D1E8E4;
+    margin: 17px;
+    width: 600px;
+    height: 400px;
+    border-radius: 5px;
+    text-align: center;
+
+}
